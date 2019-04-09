@@ -1,0 +1,38 @@
+.demoman {
+    background:lightgrey;
+    border-radius:200px;
+    display:flex;
+    justify-content:space-between;
+    width:100%;
+}
+.pyro {
+    width:200px;
+    height:70px;
+}
+.soldier {
+    font-size:10px;
+    justify-content:flex-end;
+    padding-left:20px;
+    padding-top:10px;
+}
+.helen {
+    display:flex;
+    justify-content:space-between;
+}
+.sniper {
+    width:100%;
+    margin:0px;
+}
+.doop {
+    width:100%;
+    width:230px;
+    height:320px;
+}
+.medic {
+    justify-content:flex-end;
+}
+.scout {
+    padding-right:60px;
+    padding-top:15px;
+    font-size:30px;
+}
